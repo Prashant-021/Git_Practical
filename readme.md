@@ -1,3 +1,2 @@
 Git Practical 
-
-1. readme commit from master branch
+1. readme commit by sub-branch
